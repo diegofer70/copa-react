@@ -1,5 +1,7 @@
 export function App() {
   return (
-    <h1>Olá, mundo!!</h1>
+    <div className="App">
+      <h1>Meu titulo teste</h1>
+    </div>
   )
 }
