@@ -1,7 +1,13 @@
+import './assets/css/global.css'
+import { Header } from './components/Header';
+import { Footer } from './components/Footer';
+
 export function App() {
   return (
-    <div className="App">
-      <h1>Meu titulo teste</h1>
-    </div>
+  <>
+    <Header />
+    
+    <Footer />
+  </>
   )
 }
