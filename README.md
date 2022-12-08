@@ -1,6 +1,6 @@
 # Página - Copa do Mundo FIFA 2022
 
-![Protótipo do Projeto no Figma]()
+![Protótipo do Projeto no Figma](screenshots/Home.png)
 
 ## Tecnologias Utilizadas
 
