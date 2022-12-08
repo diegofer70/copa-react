@@ -24,7 +24,7 @@ export function Header() {
                     </ul>
                 </div>
             </nav>
-            <div className='w-full h-[400px] bg-cover flex items-center justify-center relative'>
+            <div className='w-full h-[400px] bg-hero bg-cover flex items-center justify-center relative'>
                 <img src={logoFifaMain} className='w-[250px] z-[5]' />
                 <div className='bg-magenta-900 bg-opacity-50 w-full h-[400px] absolute'></div>
             </div>
