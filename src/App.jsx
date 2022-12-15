@@ -1,13 +1,9 @@
-import './assets/css/global.css'
-import { Header } from './components/Header';
-import { Footer } from './components/Footer';
+import React from 'react';
+import './assets/css/global.css';
+import { Home } from './pages/Home';
 
 export function App() {
   return (
-  <>
-    <Header />
-    
-    <Footer />
-  </>
+    <Home />
   )
 }

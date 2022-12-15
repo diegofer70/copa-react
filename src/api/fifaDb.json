@@ -1,0 +1,671 @@
+{
+    "stadiums": [
+        {
+            "id": 1,
+            "name": "Al Bayt Stadium",
+            "city": "Al Khor City",
+            "capacity": "60.000",
+            "image": "/image/albayt.svg"
+        },
+        {
+            "id": 2,
+            "name": "Lusail Stadium",
+            "city": "Lusail City",
+            "capacity": "80.000",
+            "image": "/image/lusail.svg"
+        },
+        {
+            "id": 3,
+            "name": "Ahmad Bin Ali",
+            "city": "Umm Al Afaei",
+            "capacity": "40.000",
+            "image": "/image/ahmad.svg"
+        },
+        {
+            "id": 4,
+            "name": "Al Janoub Stadium",
+            "city": "Al Wakrah",
+            "capacity": "40.000",
+            "image": "/image/aljanoub.svg"
+        },
+        {
+            "id": 5,
+            "name": "Al Thumama Stadium",
+            "city": "Al Thumama",
+            "capacity": "40.000",
+            "image": "/image/althumama.svg"
+        },
+        {
+            "id": 6,
+            "name": "Education City Stadium",
+            "city": "Al Rayyan",
+            "capacity": "40.000",
+            "image": "/image/education.svg"
+        },
+        {
+            "id": 7,
+            "name": "Khalifa International Stadium",
+            "city": "Aspire",
+            "capacity": "40.000",
+            "image": "/image/khalifa.svg"
+        },
+        {
+            "id": 8,
+            "name": "Stadium 974",
+            "city": "Ras Abu Aboud",
+            "capacity": "40.000",
+            "image": "/image/rasabu.svg"
+        }
+    ],
+    "groups": [
+        {
+            "id": 1,
+            "description": "Grupo A",
+            "teams": [
+                {
+                    "id": 1,
+                    "name": "Qatar",
+                    "flag": "/flags/qatar.svg"                    
+                },
+                {
+                    "id": 2,
+                    "name": "Equador",
+                    "flag": "/flags/equador.svg"              
+                },
+                {
+                    "id": 3,
+                    "name": "Equador",
+                    "flag": "/flags/equador.svg"              
+                },
+                {
+                    "id": 4,
+                    "name": "Equador",
+                    "flag": "/flags/equador.svg"              
+                }
+            ]                       
+        },
+          {
+            "id": 2,
+            "description": "Grupo B",
+            "teams": [
+                {
+                    "id": 1,
+                    "name": "Inglaterra",
+                    "flag": "/flags/inglaterra.svg"                    
+                },
+                {
+                    "id": 2,
+                    "name": "Irã",
+                    "flag": "/flags/iran.svg"              
+                },
+                {
+                    "id": 3,
+                    "name": "Estados Unidos",
+                    "flag": "/flags/eua.svg"              
+                },
+                {
+                    "id": 4,
+                    "name": "País de Gales",
+                    "flag": "/flags/gales.svg"              
+                }
+            ]            
+        },
+        {
+            "id": 3,
+            "description": "Grupo C",
+            "teams": [
+                {
+                    "id": 1,
+                    "name": "Argentina",
+                    "flag": "/flags/argentina.svg"                    
+                },
+                {
+                    "id": 2,
+                    "name": "Arábia Saudita",
+                    "flag": "/flags/arabia.svg"              
+                },
+                {
+                    "id": 3,
+                    "name": "México",
+                    "flag": "/flags/mexico.svg"              
+                },
+                {
+                    "id": 4,
+                    "name": "Polônia",
+                    "flag": "/flags/polonia.svg"              
+                }
+            ]            
+        },
+          {
+            "id": 4,
+            "description": "Grupo D",
+            "teams": [
+                {
+                    "id": 1,
+                    "name": "França",
+                    "flag": "/flags/franca.svg"                    
+                },
+                {
+                    "id": 2,
+                    "name": "Austrália",
+                    "flag": "/flags/australia.svg"              
+                },
+                {
+                    "id": 3,
+                    "name": "Dinamarca",
+                    "flag": "/flags/dinamarca.svg"              
+                },
+                {
+                    "id": 4,
+                    "name": "Tunísia",
+                    "flag": "/flags/tunisia.svg"              
+                }
+            ]            
+        },
+        {
+            "id": 5,
+            "description": "Grupo E",
+            "teams": [
+                {
+                    "id": 1,
+                    "name": "Espanha",
+                    "flag": "/flags/espanha.svg"                    
+                },
+                {
+                    "id": 2,
+                    "name": "Costa Rica",
+                    "flag": "/flags/costarica.svg"              
+                },
+                {
+                    "id": 3,
+                    "name": "Alemanha",
+                    "flag": "/flags/alemanha.svg"              
+                },
+                {
+                    "id": 4,
+                    "name": "Japão",
+                    "flag": "/flags/japao.svg"              
+                }
+            ]            
+        },
+        {
+            "id": 6,
+            "description": "Grupo F",
+            "teams": [
+                {
+                    "id": 1,
+                    "name": "Bélgica",
+                    "flag": "/flags/belgica.svg"                    
+                },
+                {
+                    "id": 2,
+                    "name": "Canadá",
+                    "flag": "/flags/Canadá.svg"              
+                },
+                {
+                    "id": 3,
+                    "name": "Marrocos",
+                    "flag": "/flags/marrocos.svg"              
+                },
+                {
+                    "id": 4,
+                    "name": "Croácia",
+                    "flag": "/flags/Croácia.svg"              
+                }
+            ]            
+        },
+        {
+            "id": 7,
+            "description": "Grupo G",
+            "teams": [
+                {
+                    "id": 1,
+                    "name": "Brasil",
+                    "flag": "/flags/brasil.svg"                    
+                },
+                {
+                    "id": 2,
+                    "name": "Sérvia",
+                    "flag": "/flags/equador.svg"              
+                },
+                {
+                    "id": 3,
+                    "name": "Suíça",
+                    "flag": "/flags/suica.svg"              
+                },
+                {
+                    "id": 4,
+                    "name": "Camarões",
+                    "flag": "/flags/camaroes.svg"              
+                }
+            ]            
+        },
+        {
+            "id": 8,
+            "description": "Grupo H",
+            "teams": [
+                {
+                    "id": 1,
+                    "name": "Portugal",
+                    "flag": "/flags/portugal.svg"                    
+                },
+                {
+                    "id": 2,
+                    "name": "Gana",
+                    "flag": "/flags/gana.svg"              
+                },
+                {
+                    "id": 3,
+                    "name": "Uruguai",
+                    "flag": "/flags/uruguai.svg"              
+                },
+                {
+                    "id": 4,
+                    "name": "Coréia do Sul",
+                    "flag": "/flags/coreiadosul.svg"              
+                }
+            ]            
+        }
+    ],
+    "rounds": [
+        {
+            "id": 1,
+            "matches": [
+                {
+                    "id": 1,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 2,
+                    "team-principal": "Senegal",
+                    "team-visitor": "Holanda",
+                    "stadium": "Al Thumama",
+                    "day": "21/11",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 3,
+                    "team-principal": "Inglaterra",
+                    "team-visitor": "Irã",
+                    "stadium": "Internacional Khalifa",
+                    "day": "21/11",
+                    "hour": "10:00"
+                },
+                {
+                    "id": 4,
+                    "team-principal": "EUA",
+                    "team-visitor": "País de Gales",
+                    "stadium": "Ahmad Bin Ali",
+                    "day": "21/11",
+                    "hour": "16:00"
+                },
+                {
+                    "id": 5,
+                    "team-principal": "Argentina",
+                    "team-visitor": "Arábia Saudita",
+                    "stadium": "Lusail",
+                    "day": "22/11",
+                    "hour": "07:00"
+                },
+                {
+                    "id": 6,
+                    "team-principal": "México",
+                    "team-visitor": "Polônia",
+                    "stadium": "Estádio 974",
+                    "day": "22/11",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 7,
+                    "team-principal": "Dinamarca",
+                    "team-visitor": "Tunísia",
+                    "stadium": "Cidade da Educação",
+                    "day": "22/11",
+                    "hour": "10:00"
+                },
+                {
+                    "id": 8,
+                    "team-principal": "França",
+                    "team-visitor": "Austrália",
+                    "stadium": "Al Janoub",
+                    "day": "22/11",
+                    "hour": "16:00"
+                },
+                {
+                    "id": 9,
+                    "team-principal": "Alemanha",
+                    "team-visitor": "Japão",
+                    "stadium": "Internacional Khalifa",
+                    "day": "23/11",
+                    "hour": "10:00"
+                },
+                {
+                    "id": 10,
+                    "team-principal": "Espanha",
+                    "team-visitor": "Costa Rica",
+                    "stadium": "Al Thumama",
+                    "day": "23/11",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 11,
+                    "team-principal": "Marrocos",
+                    "team-visitor": "Croácia",
+                    "stadium": "Al Bayt",
+                    "day": "23/11",
+                    "hour": "07:00"
+                },
+                {
+                    "id": 12,
+                    "team-principal": "Bélgica",
+                    "team-visitor": "Canadá",
+                    "stadium": "Ahmad Bin Ali",
+                    "day": "23/11",
+                    "hour": "16:00"
+                },
+                {
+                    "id": 13,
+                    "team-principal": "Suíça",
+                    "team-visitor": "Camarões",
+                    "stadium": "Al Janoub",
+                    "day": "24/11",
+                    "hour": "07:00"
+                },
+                {
+                    "id": 14,
+                    "team-principal": "Brasil",
+                    "team-visitor": "Sérvia",
+                    "stadium": "Lusail",
+                    "day": "24/11",
+                    "hour": "16:00"
+                },
+                {
+                    "id": 15,
+                    "team-principal": "Uruguai",
+                    "team-visitor": "Coréia do Sul",
+                    "stadium": "Cidade da Educação",
+                    "day": "24/11",
+                    "hour": "10:00"
+                },
+                {
+                    "id": 16,
+                    "team-principal": "Portugal",
+                    "team-visitor": "Gana",
+                    "stadium": "Estádio 974",
+                    "day": "24/11",
+                    "hour": "13:00"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "matches": [
+                {
+                    "id": 17,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 18,
+                    "team-principal": "Senegal",
+                    "team-visitor": "Holanda",
+                    "stadium": "Al Thumama",
+                    "day": "21/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 19,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 20,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 21,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 22,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 23,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 24,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 25,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 26,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 27,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 28,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 29,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 30,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 31,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 32,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "matches": [
+                {
+                    "id": 33,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 34,
+                    "team-principal": "Senegal",
+                    "team-visitor": "Holanda",
+                    "stadium": "Al Thumama",
+                    "day": "21/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 35,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 36,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 37,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 38,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 39,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 40,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 41,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 42,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 43,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 44,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 45,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 46,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 47,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                },
+                {
+                    "id": 48,
+                    "team-principal": "Qatar",
+                    "team-visitor": "Equador",
+                    "stadium": "Al Bayt",
+                    "day": "20/11/2022",
+                    "hour": "13:00"
+                }
+            ]
+        }
+    ]
+}
